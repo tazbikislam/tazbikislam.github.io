@@ -1,7 +1,7 @@
 # Hello, I'm Tazbik Islam
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-With a great interest in Cyber Security, I’m in my first year as a BSc Cyber Security Student and am looking forward to build a strong foundation in this field. In order to persue my position as a Penetration Tester and Digital Forensic Specialist, I am enthusiastic to begin my profession by actively researching security topics. Already diving deep into real-world skills by building personal cybersecurity lab and vulnerable machines, solving challenges on TryHackMe and OverTheWire, and learning tools like Wireshark, Nmap, Burpsuite, Metasploit, FTK Imager and Autopsy.
+With a great interest in Cyber Security, I’m in my first year as a BSc Cyber Security Student and am looking forward to build a strong foundation in this field. In order to pursue my role as a Penetration Tester and Digital Forensic Specialist, I am eager to start my career by actively researching security topics and working with computer languages, with Python being my area of expertise. Already diving deep into real-world skills by building personal cybersecurity lab and vulnerable machines, solving challenges on TryHackMe and OverTheWire, and learning tools like Wireshark, Nmap, Burpsuite, Metasploit, FTK Imager and Autopsy.
 
 
 ## Skills
@@ -49,6 +49,9 @@ With a great interest in Cyber Security, I’m in my first year as a BSc Cyber S
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
+## Security Projects
 - Detection Lab
 - SOC Automation Project
+
+## Python Projects
+- <a href="https://google.com](https://github.com/tazbikislam/FriendZone-app">FriendZone-app</a>
