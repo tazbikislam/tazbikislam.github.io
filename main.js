@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
-  // Initialize Swiper (1 slide on mobile, 2 on tablets, 3 on desktop)
+
   const swiperCards = new Swiper(".card__content", {
-    slidesPerView: 1, // default: mobile = 1
+    slidesPerView: 1, 
     loop: true,
     spaceBetween: 24,
     grabCursor: true,
@@ -14,22 +14,22 @@ document.addEventListener("DOMContentLoaded", () => {
       nextEl: ".swiper-button-next",
       prevEl: ".swiper-button-prev",
     },
-    observer: true, // observe DOM changes
+    observer: true, 
     observeParents: true,
     allowTouchMove: true,
     breakpoints: {
-      600: { slidesPerView: 2 }, // tablets
-      968: { slidesPerView: 3 }, // desktop
+      600: { slidesPerView: 2 }, 
+      968: { slidesPerView: 3 },
     },
   });
 
-  // ——— Safe DOM selections (guarded) ———
+
   const cursor = document.querySelector(".drawing-cursor");
   const links = document.querySelectorAll("a");
   const footer = document.querySelector(".portfolio-footer");
   const shapes = document.querySelectorAll(".shape");
 
-  // Mouse move: update cursor and parallax shapes (only if they exist)
+
   document.addEventListener("mousemove", (e) => {
     if (cursor) {
       cursor.style.opacity = "1";
@@ -54,7 +54,6 @@ document.addEventListener("DOMContentLoaded", () => {
     if (cursor) cursor.style.opacity = "0";
   });
 
-  // Link hover and click behaviors (safe)
   if (links && links.length) {
     links.forEach((link) => {
       link.addEventListener("mouseenter", () => {
@@ -73,9 +72,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
       });
 
-      // prevent navigation and add ripple feedback
       link.addEventListener("click", (e) => {
-        // allow real external navigation if link has target="_blank" or mailto/github etc.
         const href = link.getAttribute("href") || "";
         const external =
           link.target === "_blank" ||
@@ -100,7 +97,6 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // Footer tilt (guard)
   if (footer) {
     footer.addEventListener("mousemove", (e) => {
       const footerRect = footer.getBoundingClientRect();
@@ -120,7 +116,6 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // Inject ripple keyframes (keeps original effect)
   const style = document.createElement("style");
   style.innerHTML = `
     @keyframes ripple {
@@ -130,7 +125,6 @@ document.addEventListener("DOMContentLoaded", () => {
   `;
   document.head.appendChild(style);
 
-  // Responsive handler (safe)
   function handleResponsive() {
     if (window.innerWidth <= 640) {
       const projectLinks = document.querySelectorAll(".project-link");
@@ -143,7 +137,6 @@ document.addEventListener("DOMContentLoaded", () => {
   window.addEventListener("resize", handleResponsive);
   handleResponsive();
 
-  // Set year (no jQuery)
   const year = document.querySelector("#year");
   if (year) year.innerText = new Date().getFullYear();
 });
