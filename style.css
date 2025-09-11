@@ -1019,7 +1019,7 @@ nav .right a span {
 /* ============================= */
 /* 📱 Hero Section Mobile Fixes  */
 /* ============================= */
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) and (max-width: 932px) {
   nav {
     flex-direction: column;
     justify-content: center;
@@ -1073,11 +1073,11 @@ nav .right a span {
 }
 
 /* ===== Projects: One full-width card on mobile & tablet ===== */
-@media screen and (max-width: 932px) {
-
+@media screen and (min-width: 768px) and (max-width: 932px)  {
     .card__content {
     margin-inline: 0;
   }
+
 
 .card__container {
     overflow: hidden;
@@ -1114,7 +1114,7 @@ nav .right a span {
   }
 }
 
-@media screen and (max-width: 932px) {
+@media screen and (min-width: 768px) and (max-width: 932px) {
   .card__article {
     display: flex;
     width: 100% !important;
@@ -1123,7 +1123,7 @@ nav .right a span {
 }
 
 /* Skills section cards - stack on mobile */
-@media screen and (max-width: 932px) {
+@media screen and (min-width: 768px) and (max-width: 932px) {
   .skills-section .card__container {
     display: grid;
     grid-template-columns: 1fr;
@@ -1145,4 +1145,3 @@ nav .right a span {
     font-size: 22px;
   }
 }
-
