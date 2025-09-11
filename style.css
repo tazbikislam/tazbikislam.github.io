@@ -1077,7 +1077,7 @@ nav .right a span {
   .card__container {
     overflow: hidden;
     justify-content: center;
-    width: 95%;
+    width: 90%;
   }
 
   .card__image {
@@ -1123,7 +1123,6 @@ nav .right a span {
     display: grid;
     grid-template-columns: 1fr;
     gap: 20px;
-    padding-left: 85px;
   }
 }
 
