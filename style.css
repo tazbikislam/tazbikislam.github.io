@@ -996,10 +996,10 @@ nav .right a span {
     scroll-snap-type: none !important;
   }
 
-  body{
+  body {
     overflow-x: hidden;
   }
-  
+
   * {
     box-sizing: border-box;
   }
@@ -1073,16 +1073,15 @@ nav .right a span {
 }
 
 /* ===== Projects: One full-width card on mobile & tablet ===== */
-@media screen and (max-width: 1024px) {
-  .card__content {
+@media screen and (max-width: 932px) {
+
+    .card__content {
     margin-inline: 0;
-    /* remove side gaps */
   }
 
-  .card__article {
-    width: 40% !important;
-    max-width: 400px;
-    margin: 0 auto;
+.card__container {
+    overflow: hidden;
+    justify-content: center;
   }
 
   .card__image {
@@ -1091,28 +1090,39 @@ nav .right a span {
   }
 
   .card__img {
-    width: 120px;
-    /* scale avatar */
+    width: 150px;
   }
 
   .card__data {
     padding: 1rem;
+    max-width: 250px;
+    border-radius: 0;
   }
 
   .swiper-wrapper {
     width: 100%;
-
   }
 
-  .card__container{
+  .swiper-slide {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .card__container {
     justify-content: center !important;
   }
 }
 
-
+@media screen and (max-width: 932px) {
+  .card__article {
+    display: flex;
+    width: 100% !important;
+    margin: 0 auto;
+  }
+}
 
 /* Skills section cards - stack on mobile */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 932px) {
   .skills-section .card__container {
     display: grid;
     grid-template-columns: 1fr;
@@ -1121,7 +1131,7 @@ nav .right a span {
 }
 
 /* Very small devices */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 320px) {
   body {
     font-size: 14px;
   }
