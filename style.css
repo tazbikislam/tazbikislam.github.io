@@ -1082,6 +1082,7 @@ nav .right a span {
 .card__container {
     overflow: hidden;
     justify-content: center;
+    width: 90%;
   }
 
   .card__image {
@@ -1144,3 +1145,4 @@ nav .right a span {
     font-size: 22px;
   }
 }
+
