@@ -165,7 +165,7 @@ nav .right a span {
 .hero-section .text .links a {
   display: inline-block;
   padding: 5px 10px;
-  border: 2px solid var(--link-color);
+  border: 3px solid var(--link-color);
   border-radius: 5px;
   margin-right: 10px;
   margin-bottom: 10px;
@@ -994,6 +994,9 @@ nav .right a span {
   html {
     max-width: 100%;
     scroll-snap-type: none !important;
+  }
+
+  body{
     overflow-x: hidden;
   }
   
@@ -1095,6 +1098,15 @@ nav .right a span {
   .card__data {
     padding: 1rem;
   }
+
+  .swiper-wrapper {
+    width: 100%;
+
+  }
+
+  .card__container{
+    justify-content: center !important;
+  }
 }
 
 
@@ -1120,14 +1132,5 @@ nav .right a span {
 
   .hero-section .text h2 {
     font-size: 22px;
-  }
-}
-
-/* Hide swiper arrows on mobile & tablet */
-@media screen and (max-width: 1024px) {
-
-  .swiper-button-next,
-  .swiper-button-prev {
-    display: none !important;
   }
 }
