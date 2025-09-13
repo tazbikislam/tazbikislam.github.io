@@ -1,11 +1,10 @@
 # Hello, I'm Tazbik Islam
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 With a great interest in Cyber Security, I’m in my first year as a BSc Cyber Security Student and am looking forward to build a strong foundation in this field. In order to pursue my role as a Penetration Tester and Digital Forensic Specialist, I am eager to start my career by actively researching security topics and working with computer languages, with Python being my area of expertise. Already diving deep into real-world skills by building personal cybersecurity lab and vulnerable machines, solving challenges on TryHackMe and OverTheWire, and learning tools like Wireshark, Nmap, Burpsuite, Metasploit, FTK Imager and Autopsy.
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -18,29 +17,24 @@ With a great interest in Cyber Security, I’m in my first year as a BSc Cyber S
 
 ## Tools
 
-### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/--777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" width="80px"/>
+    <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" width="70px"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" width="90px"/>
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff" width="105px"/>
+    <img src="https://img.shields.io/badge/Nmap-004E8C?logo=nmap&logoColor=fff" width="60px"/>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" width="75px"/>
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff" width="110px"/>
+    <img src="https://img.shields.io/badge/Metasploit-FF6600?logo=metasploit&logoColor=fff" width="110px"/>
+    <img src="https://img.shields.io/badge/Burp%20Suite-EE7623?logo=portswigger&logoColor=fff" width="110px"/>
+    <img src="https://img.shields.io/badge/FTK%20Imager-D72638?logoColor=fff" width="95px"/>
+    <img src="https://img.shields.io/badge/Autopsy-6A1B9A?logoColor=fff" width="80px"/>
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Security Projects
 - Detection Lab
 - SOC Automation Project
 
-## Python Projects
+## General Projects
 - <a href="https://github.com/tazbikislam/Philia-app">Philia-app</a> makes it simple and enjoyable to remain in touch with friends. You can easily manage your friendship, remember birthdays, and receive reminders.
