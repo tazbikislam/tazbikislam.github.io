@@ -752,79 +752,6 @@ nav .right a span {
   animation: rotation_481 5000ms infinite linear;
 }
 
-.front,
-.back_10 {
-  background-color: #151515;
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  backface-visibility: hidden;
-  -webkit-backface-visibility: hidden;
-  border-radius: 5px;
-  overflow: hidden;
-}
-
-.back_10 {
-  width: 100%;
-  height: 100%;
-  justify-content: center;
-  display: flex;
-  align-items: center;
-  overflow: hidden;
-}
-
-.back_10::before {
-  position: absolute;
-  content: " ";
-  display: block;
-  width: 160px;
-  height: 160%;
-  background: linear-gradient(90deg,
-      transparent,
-      #ffffff,
-      #ffffff,
-      #ffffff,
-      #ffffff,
-      transparent);
-  animation: rotation_481 5000ms infinite linear;
-}
-
-.front,
-.back_11 {
-  background-color: #151515;
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  backface-visibility: hidden;
-  -webkit-backface-visibility: hidden;
-  border-radius: 5px;
-  overflow: hidden;
-}
-
-.back_11 {
-  width: 100%;
-  height: 100%;
-  justify-content: center;
-  display: flex;
-  align-items: center;
-  overflow: hidden;
-}
-
-.back_11::before {
-  position: absolute;
-  content: " ";
-  display: block;
-  width: 160px;
-  height: 160%;
-  background: linear-gradient(90deg,
-      transparent,
-      #a52a2a,
-      #a52a2a,
-      #a52a2a,
-      #a52a2a,
-      transparent);
-  animation: rotation_481 5000ms infinite linear;
-}
 
 .back-content {
   position: absolute;
@@ -1073,7 +1000,7 @@ nav .right a span {
 }
 
 /* ===== Projects: One full-width card on mobile & tablet ===== */
-@media screen and (max-width: 932px) {
+@media screen and (max-width: 1024px) {
   .card__container {
     overflow: hidden;
     justify-content: center;
@@ -1139,4 +1066,3 @@ nav .right a span {
     font-size: 22px;
   }
 }
-
