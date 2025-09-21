@@ -7,8 +7,8 @@ With a great interest in <b>Cyber Security</b>, I’m in my first year as a <b>B
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Penetration Testing       | <a href="https://medium.com/@tazbikislam.work/cybersecurity-home-lab-for-penetration-testing-e8fdd4292670">CyberSecurity Homelab</a>|
+| Network Traffic Monitoring and Exploitation | <a href="https://medium.com/@tazbikislam.work/cybersecurity-home-lab-for-penetration-testing-e8fdd4292670">CyberSecurity Homelab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -26,14 +26,11 @@ With a great interest in <b>Cyber Security</b>, I’m in my first year as a <b>B
     <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=fff" width="110px"/>
     <img src="https://img.shields.io/badge/Metasploit-FF6600?logo=metasploit&logoColor=fff" width="110px"/>
     <img src="https://img.shields.io/badge/Burp%20Suite-EE7623?logo=portswigger&logoColor=fff" width="110px"/>
-    <img src="https://img.shields.io/badge/FTK%20Imager-D72638?logoColor=fff" width="95px"/>
-    <img src="https://img.shields.io/badge/Autopsy-6A1B9A?logoColor=fff" width="80px"/>
 </div>
 
 
 ## Security Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://medium.com/@tazbikislam.work/cybersecurity-home-lab-for-penetration-testing-e8fdd4292670">CyberSecurity Homelab</a>
 
 ## General Projects
-- <a href="https://github.com/tazbikislam/Philia-app">Philia-app</a> makes it simple and enjoyable to remain in touch with friends. You can easily manage your friendship, remember birthdays, and receive reminders.
+- <a href="https://github.com/tazbikislam/Philia-app">Philia-app</a>
