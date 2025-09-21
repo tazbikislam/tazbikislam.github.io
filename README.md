@@ -8,7 +8,7 @@ With a great interest in <b>Cyber Security</b>, I’m in my first year as a <b>B
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Penetration Testing       | <a href="https://medium.com/@tazbikislam.work/cybersecurity-home-lab-for-penetration-testing-e8fdd4292670">CyberSecurity Homelab</a>|
-| Network Traffic Monitoring and Exploitation | <a href="https://medium.com/@tazbikislam.work/cybersecurity-home-lab-for-penetration-testing-e8fdd4292670">CyberSecurity Homelab</a>|
+| Network Traffic Monitoring | <a href="https://medium.com/@tazbikislam.work/cybersecurity-home-lab-for-penetration-testing-e8fdd4292670">CyberSecurity Homelab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
