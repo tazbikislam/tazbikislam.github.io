@@ -1,5 +1,5 @@
 # Hello, I'm Tazbik Islam
-<a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/tazbik-islam" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 With a great interest in <b>Cyber Security</b>, I’m in my first year as a <b>B.Sc. CyberSecurity</b> undergraduate dedicated to building a strong foundation in the field. To pursue my role as a <b>Penetration Tester</b>, I’ve been conducting independent research on security topics and demonstrating expertise in <b>Python</b>. Already diving deep into real-world skills by building personal cybersecurity labs and vulnerable machines, solving challenges on <b>TryHackMe</b> and <b>OverTheWire</b>, and learning tools like <b>Wireshark</b>, <b>Nmap</b>, <b>Burpsuite</b>, <b>Metasploit</b>.
 
