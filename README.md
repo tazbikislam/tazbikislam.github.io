@@ -26,7 +26,7 @@ With a great interest in <b>Cyber Security</b>, I’m in my first year as a <b>B
 
 
 ## Security Projects
-- <a href="https://medium.com/@tazbikislam.work/cybersecurity-home-lab-for-penetration-testing-e8fdd4292670">CyberSecurity Homelab</a>
+- <a href="[https://medium.com/@tazbikislam.work/cybersecurity-home-lab-for-penetration-testing-e8fdd4292670](https://github.com/tazbikislam/CyberSecurity-Home-Lab-for-Penetration-Testing)">CyberSecurity Homelab</a>
 
 ## General Projects
 - <a href="https://github.com/tazbikislam/Philia-app">Philia-app</a>
