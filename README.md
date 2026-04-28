@@ -7,8 +7,8 @@ With a great interest in <b>Cyber Security</b>, I’m in my first year as a <b>B
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Penetration Testing       | <a href="https://medium.com/@tazbikislam.work/cybersecurity-home-lab-for-penetration-testing-e8fdd4292670">CyberSecurity Homelab</a>|
-| Network Traffic Monitoring | <a href="https://medium.com/@tazbikislam.work/cybersecurity-home-lab-for-penetration-testing-e8fdd4292670">CyberSecurity Homelab</a>|
+| Penetration Testing       | <a href="[https://medium.com/@tazbikislam.work/cybersecurity-home-lab-for-penetration-testing-e8fdd4292670](https://github.com/tazbikislam/CyberSecurity-Home-Lab-for-Penetration-Testing)">CyberSecurity Homelab</a>|
+| Network Traffic Monitoring | <a href="[https://medium.com/@tazbikislam.work/cybersecurity-home-lab-for-penetration-testing-e8fdd4292670](https://github.com/tazbikislam/CyberSecurity-Home-Lab-for-Penetration-Testing)">CyberSecurity Homelab</a>|
 
 ## Tools
 
